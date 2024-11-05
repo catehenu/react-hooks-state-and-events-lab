@@ -65,8 +65,9 @@ header {
 header h2 {
   padding: 1rem 0;
 }
-
 header button {
+  background: var(--magenta);
+  color: white;
   background: var(--yellow);
 }
 
